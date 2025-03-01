@@ -5,7 +5,7 @@
 ## About the Project
 This project analyzes and extracts relevant information from a government-provided dataset on the main fuels used in Brazil during the first half of 2024. The system processes the dataset to generate visualizations of price trends by state, highlighting price variations and identifying states with the highest and lowest fuel prices.
 
-## Features
+## :hammer: Features
 
 - **Data Processing**:  
   Reads and processes the dataset (`Precos.csv`) containing fuel price information.
@@ -18,11 +18,11 @@ This project analyzes and extracts relevant information from a government-provid
   - `Average Price`: Computes the mean fuel price per state.
   - `Price Variability`: Determines states with the highest and lowest price variations.
 
-- **Data Visualization**:  
+- **Data Visualization** 📈:  
   - Generates **Matplotlib** graphs to visualize fuel price trends per state.
   - Highlights maximum, minimum, and average prices with distinct markers and colors.
 
-## Technologies Used
+## ✅ Technologies Used
 
 - **Pandas**: Data handling and filtering
 - **Matplotlib**: Graph and visualization generation
