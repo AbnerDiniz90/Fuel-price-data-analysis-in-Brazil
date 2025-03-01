@@ -18,7 +18,7 @@ This project analyzes and extracts relevant information from a government-provid
   - `Average Price`: Computes the mean fuel price per state.
   - `Price Variability`: Determines states with the highest and lowest price variations.
 
-- **Data Visualization** 📈:  
+- 📈 **Data Visualization**:  
   - Generates **Matplotlib** graphs to visualize fuel price trends per state.
   - Highlights maximum, minimum, and average prices with distinct markers and colors.
 
