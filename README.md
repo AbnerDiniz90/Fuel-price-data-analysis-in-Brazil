@@ -12,7 +12,7 @@ This project analyzes and extracts relevant information from a government-provid
   Filters data based on fuel type and state.
   Implements **Timsort** and **Merge Sort** algorithms to efficiently sort price data.
 
-- **Price Analysis**:  
+- 💲**Price Analysis**:  
   - `Maximum Price`: Identifies the highest fuel price per state.
   - `Minimum Price`: Identifies the lowest fuel price per state.
   - `Average Price`: Computes the mean fuel price per state.
